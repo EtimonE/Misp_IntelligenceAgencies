@@ -1,0 +1,3264 @@
+{
+    "name": "Intelligence Agencies",
+    "description": "Galaxy of intelligence agencies by country",
+    "type": "taxonomy",
+    "version": "1.0",
+    "authors": [
+        "Timon ECKERT - Nina KERN"
+    ],
+    "values": [
+        {
+            "value": "Afghanistan",
+            "description": "Intelligence agencies in Afghanistan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "General Directorate of Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Albania",
+            "description": "Intelligence agencies in Albania",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Argentina",
+            "description": "Intelligence agencies in Argentina",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "President's Office"
+                        },
+                        {
+                            "value": "Federal Intelligence Agency"
+                        },
+                        {
+                            "value": "Directorate of Judicial Surveillance"
+                        },
+                        {
+                            "value": "Federal Counternarcotics Service"
+                        },
+                        {
+                            "value": "Argentine National Gendarmerie Intelligence"
+                        },
+                        {
+                            "value": "Ministry of Defense"
+                        },
+                        {
+                            "value": "National Directorate of Strategic Military Intelligence"
+                        },
+                        {
+                            "value": "Ministry of Justice"
+                        },
+                        {
+                            "value": "Federal Penitentiary Service Intelligence"
+                        },
+                        {
+                            "value": "Airport Security Police Intelligence"
+                        },
+                        {
+                            "value": "Ministry of Interior"
+                        },
+                        {
+                            "value": "National Directorate of Criminal Intelligence"
+                        },
+                        {
+                            "value": "Argentine Federal Police Intelligence"
+                        },
+                        {
+                            "value": "Buenos Aires Police Intelligence"
+                        },
+                        {
+                            "value": "Argentine Naval Prefecture Intelligence"
+                        },
+                        {
+                            "value": "Ministry of Economy"
+                        },
+                        {
+                            "value": "Financial Intelligence Unit"
+                        },
+                        {
+                            "value": "Intelligence Department of the Joint General Staff of the Armed Forces"
+                        },
+                        {
+                            "value": "Military Intelligence Collection Center"
+                        },
+                        {
+                            "value": "Army Intelligence Service"
+                        },
+                        {
+                            "value": "Naval Intelligence Service"
+                        },
+                        {
+                            "value": "Air Force Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Armenia",
+            "description": "Intelligence agencies in Armenia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Australia",
+            "description": "Intelligence agencies in Australia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Australian Security Intelligence Organisation"
+                        },
+                        {
+                            "value": "Australian Secret Intelligence Service"
+                        },
+                        {
+                            "value": "Australian Signals Directorate"
+                        },
+                        {
+                            "value": "Australian Geospatial-Intelligence Organisation"
+                        },
+                        {
+                            "value": "Defence Intelligence Organisation"
+                        },
+                        {
+                            "value": "Office of National Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Austria",
+            "description": "Intelligence agencies in Austria",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Bundesministerium f\u00fcr Landesverteidigung (BMLV)"
+                        },
+                        {
+                            "value": "Heeresnachrichtenamt"
+                        },
+                        {
+                            "value": "Abwehramt"
+                        },
+                        {
+                            "value": "Bundesministerium f\u00fcr Inneres (BMI)"
+                        },
+                        {
+                            "value": "Direktion Staatsschutz und Nachrichtendienst"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Azerbaijan",
+            "description": "Intelligence agencies in Azerbaijan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Security Service"
+                        },
+                        {
+                            "value": "Foreign Intelligence Service"
+                        },
+                        {
+                            "value": "Financial Monitoring Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Bahamas",
+            "description": "Intelligence agencies in Bahamas",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Security and Intelligence Branch"
+                        },
+                        {
+                            "value": "Financial Intelligence Unit"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Bahrain",
+            "description": "Intelligence agencies in Bahrain",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Security Agency"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Bangladesh",
+            "description": "Intelligence agencies in Bangladesh",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Committee for Intelligence Coordination"
+                        },
+                        {
+                            "value": "National Security Affairs Cell"
+                        },
+                        {
+                            "value": "Directorate General of Forces Intelligence"
+                        },
+                        {
+                            "value": "Directorate General of Forces Intelligence"
+                        },
+                        {
+                            "value": "National Security Intelligence"
+                        },
+                        {
+                            "value": "National Security Intelligence"
+                        },
+                        {
+                            "value": "National Security Intelligence"
+                        },
+                        {
+                            "value": "Special Branch"
+                        },
+                        {
+                            "value": "Detective Branch"
+                        },
+                        {
+                            "value": "Police Bureau of Investigation"
+                        },
+                        {
+                            "value": "Criminal Investigation Department"
+                        },
+                        {
+                            "value": "Counter Terrorism and Transnational Crime"
+                        },
+                        {
+                            "value": "National Telecommunication Monitoring Centre"
+                        },
+                        {
+                            "value": "Digital Security Agency"
+                        },
+                        {
+                            "value": "Central Intelligence Unit"
+                        },
+                        {
+                            "value": "Central Intelligence Unit"
+                        },
+                        {
+                            "value": "Bangladesh Financial Intelligence Unit"
+                        },
+                        {
+                            "value": "Special Security Force"
+                        },
+                        {
+                            "value": "Special Security Force"
+                        },
+                        {
+                            "value": "Rapid Action Battalion"
+                        },
+                        {
+                            "value": "Directorate General of Forces Intelligence"
+                        },
+                        {
+                            "value": "Directorate General of Forces Intelligence"
+                        },
+                        {
+                            "value": "Counter Terrorism and Intelligence Bureau"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Barbados",
+            "description": "Intelligence agencies in Barbados",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Financial Intelligence Unit"
+                        },
+                        {
+                            "value": "Criminal Investigations Department"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Belarus",
+            "description": "Intelligence agencies in Belarus",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "\u041a\u0430\u043c\u0456\u0442\u044d\u0442 \u0434\u0437\u044f\u0440\u0436\u0430\u045e\u043d\u0430\u0439 \u0431\u044f\u0441\u043f\u0435\u043a\u0456 / \u041a\u043e\u043c\u0438\u0442\u0435\u0442 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Belgium",
+            "description": "Intelligence agencies in Belgium",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "VSSE"
+                        },
+                        {
+                            "value": "ADIV / SGRS"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Bosnia and Herzegovina",
+            "description": "Intelligence agencies in Bosnia and Herzegovina",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Intelligence-Security Agency of Bosnia and Herzegovina"
+                        },
+                        {
+                            "value": "Dr\u017eavna Agencija za Istrage i Za\u0161titu"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Botswana",
+            "description": "Intelligence agencies in Botswana",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Directorate on Intelligence and Security Services"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Brazil",
+            "description": "Intelligence agencies in Brazil",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Brazilian Intelligence Agency"
+                        },
+                        {
+                            "value": "Federal Police Department"
+                        },
+                        {
+                            "value": "Gabinete de Seguran\u00e7a Institucional"
+                        },
+                        {
+                            "value": "Secretaria da Receita Federal do Brasil"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Brunei",
+            "description": "Intelligence agencies in Brunei",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Internal Security Department (Brunei)"
+                        },
+                        {
+                            "value": "Research Department"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Bulgaria",
+            "description": "Intelligence agencies in Bulgaria",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Intelligence Agency"
+                        },
+                        {
+                            "value": "State Agency for National Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Burundi",
+            "description": "Intelligence agencies in Burundi",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Service national de renseignement"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Canada",
+            "description": "Intelligence agencies in Canada",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Canadian Security Intelligence Service"
+                        },
+                        {
+                            "value": "Communications Security Establishment"
+                        },
+                        {
+                            "value": "Canadian Forces Intelligence Command"
+                        },
+                        {
+                            "value": "Criminal Intelligence Service Canada"
+                        },
+                        {
+                            "value": "Financial Transactions and Reports Analysis Centre of Canada"
+                        },
+                        {
+                            "value": "Global Affairs Canada"
+                        },
+                        {
+                            "value": "Royal Canadian Mounted Police"
+                        },
+                        {
+                            "value": "Canada Border Services Agency"
+                        },
+                        {
+                            "value": "Canadian Coast Guard"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Chad",
+            "description": "Intelligence agencies in Chad",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Agence nationale de s\u00e9curit\u00e9"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Chile",
+            "description": "Intelligence agencies in Chile",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Ministry of Interior"
+                        },
+                        {
+                            "value": "National Intelligence Agency"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "People's Republic of China",
+            "description": "Intelligence agencies in People's Republic of China",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "610 Office"
+                        },
+                        {
+                            "value": "International Department"
+                        },
+                        {
+                            "value": "United Front Work Department"
+                        },
+                        {
+                            "value": "Joint Staff Department of the Central Military Commission"
+                        },
+                        {
+                            "value": "Intelligence Bureau of the General Staff"
+                        },
+                        {
+                            "value": "People's Liberation Army Air Force"
+                        },
+                        {
+                            "value": "People's Liberation Army General Political Department"
+                        },
+                        {
+                            "value": "People's Liberation Army General Staff Department"
+                        },
+                        {
+                            "value": "People's Liberation Army Strategic Support Force"
+                        },
+                        {
+                            "value": "PLA Unit 61398"
+                        },
+                        {
+                            "value": "Ministry of Human Resources and Social Security"
+                        },
+                        {
+                            "value": "State Administration of Foreign Experts Affairs"
+                        },
+                        {
+                            "value": "Ministry of Public Security"
+                        },
+                        {
+                            "value": "Ministry of State Security"
+                        },
+                        {
+                            "value": "Office for Safeguarding National Security of the CPG in the HKSAR"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Colombia",
+            "description": "Intelligence agencies in Colombia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Direcci\u00f3n Nacional de Inteligencia"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Democratic Republic of the Congo",
+            "description": "Intelligence agencies in Democratic Republic of the Congo",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Intelligence Agency"
+                        },
+                        {
+                            "value": "General Staff of Military intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Croatia",
+            "description": "Intelligence agencies in Croatia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Sigurnosno-obavje\u0161tajna agencija"
+                        },
+                        {
+                            "value": "Vojna sigurnosno-obavje\u0161tajna agencija"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Cuba",
+            "description": "Intelligence agencies in Cuba",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Military Counterintelligence Directorate"
+                        },
+                        {
+                            "value": "Direcci\u00f3n General de Inteligencia"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Cyprus",
+            "description": "Intelligence agencies in Cyprus",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Cyprus Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Czech Republic",
+            "description": "Intelligence agencies in Czech Republic",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Security Information Service"
+                        },
+                        {
+                            "value": "Office for Foreign Relations and Information"
+                        },
+                        {
+                            "value": "Ministry of Defence"
+                        },
+                        {
+                            "value": "Military Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Denmark",
+            "description": "Intelligence agencies in Denmark",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Danish Security and Intelligence Service"
+                        },
+                        {
+                            "value": "Danish Defence Intelligence Service"
+                        },
+                        {
+                            "value": "Army Intelligence Center"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Ecuador",
+            "description": "Intelligence agencies in Ecuador",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Intelligence Secretariat"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Egypt",
+            "description": "Intelligence agencies in Egypt",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Gihaz al-Mukhabarat al-Amma"
+                        },
+                        {
+                            "value": "Idarat al-Mukhabarat al-Harbyya wa al-Istitla"
+                        },
+                        {
+                            "value": "Al-amn al-Watani"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Eritrea",
+            "description": "Intelligence agencies in Eritrea",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Security Office"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Estonia",
+            "description": "Intelligence agencies in Estonia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Estonian Internal Security Service"
+                        },
+                        {
+                            "value": "Foreign Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Ethiopia",
+            "description": "Intelligence agencies in Ethiopia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Information Network Security Administration"
+                        },
+                        {
+                            "value": "National Intelligence and Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Finland",
+            "description": "Intelligence agencies in Finland",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Finnish Defence Intelligence Agency"
+                        },
+                        {
+                            "value": "Finnish Defence Intelligence Agency"
+                        },
+                        {
+                            "value": "Intelligence Division"
+                        },
+                        {
+                            "value": "Finnish Security Intelligence Service"
+                        },
+                        {
+                            "value": "Finnish Security Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "France",
+            "description": "Intelligence agencies in France",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "President of France"
+                        },
+                        {
+                            "value": "National Centre for Counter Terrorism"
+                        },
+                        {
+                            "value": "Ministry of Interior"
+                        },
+                        {
+                            "value": "General Directorate for Internal Security"
+                        },
+                        {
+                            "value": "National Police"
+                        },
+                        {
+                            "value": "Central Directorate of Public Security"
+                        },
+                        {
+                            "value": "Service central du renseignement territorial (SCRT)"
+                        },
+                        {
+                            "value": "Central Directorate of the Judicial Police"
+                        },
+                        {
+                            "value": "Sous-direction anti-terroriste (SDAT)"
+                        },
+                        {
+                            "value": "Ministry of Defence"
+                        },
+                        {
+                            "value": "Directorate-General for External Security"
+                        },
+                        {
+                            "value": "Direction du Renseignement et de la S\u00e9curit\u00e9 de la D\u00e9fense"
+                        },
+                        {
+                            "value": "Directorate of Military Intelligence"
+                        },
+                        {
+                            "value": "Ministry of Finance"
+                        },
+                        {
+                            "value": "Tracfin"
+                        },
+                        {
+                            "value": "Direction Nationale du Renseignement et des Enqu\u00eates Douani\u00e8res"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Gambia",
+            "description": "Intelligence agencies in Gambia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": []
+                }
+            }
+        },
+        {
+            "value": "Georgia",
+            "description": "Intelligence agencies in Georgia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Security Service"
+                        },
+                        {
+                            "value": "Georgian Intelligence Service"
+                        },
+                        {
+                            "value": "Georgian Armed Forces"
+                        },
+                        {
+                            "value": "Military Intelligence Department"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Germany",
+            "description": "Intelligence agencies in Germany",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Bundeskanzleramt"
+                        },
+                        {
+                            "value": "Bundesnachrichtendienst"
+                        },
+                        {
+                            "value": "Bundesministerium des Innern"
+                        },
+                        {
+                            "value": "Bundesamt f\u00fcr Verfassungsschutz"
+                        },
+                        {
+                            "value": "Bundesamt f\u00fcr Sicherheit in der Informationstechnik"
+                        },
+                        {
+                            "value": "Bundespolizei"
+                        },
+                        {
+                            "value": "Zentrum f\u00fcr Informations- und Kommunikationstechnik (IKTZ): Center for information and communication technology"
+                        },
+                        {
+                            "value": "Bundeswehr"
+                        },
+                        {
+                            "value": "Milit\u00e4rischer Abschirmdienst"
+                        },
+                        {
+                            "value": "Landesamt f\u00fcr Verfassungsschutz (LfV)"
+                        },
+                        {
+                            "value": "Landesamt f\u00fcr Verfassungsschutz (LfV)"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Ghana",
+            "description": "Intelligence agencies in Ghana",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Bureau of National Investigations"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Greece",
+            "description": "Intelligence agencies in Greece",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Prime Minister of the Hellenic Republic"
+                        },
+                        {
+                            "value": "National Intelligence Service"
+                        },
+                        {
+                            "value": "Hellenic National Defence General Staff"
+                        },
+                        {
+                            "value": "E Division \u2013 Intelligence Division"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Haiti",
+            "description": "Intelligence agencies in Haiti",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Service d'Intelligence National"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Hungary",
+            "description": "Intelligence agencies in Hungary",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Inform\u00e1ci\u00f3s Hivatal"
+                        },
+                        {
+                            "value": "Alkotm\u00e1nyv\u00e9delmi Hivatal"
+                        },
+                        {
+                            "value": "Terrorelh\u00e1r\u00edt\u00e1si K\u00f6zpont"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Iceland",
+            "description": "Intelligence agencies in Iceland",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Security Agency"
+                        },
+                        {
+                            "value": "Military Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "India",
+            "description": "Intelligence agencies in India",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Research and Analysis Wing (RAW)"
+                        },
+                        {
+                            "value": "Research and Analysis Wing (RAW)"
+                        },
+                        {
+                            "value": "Defence Intelligence Agency"
+                        },
+                        {
+                            "value": "Defence Intelligence Agency"
+                        },
+                        {
+                            "value": "Directorate of Military Intelligence"
+                        },
+                        {
+                            "value": "Directorate of Air Intelligence"
+                        },
+                        {
+                            "value": "Directorate of Naval Intelligence"
+                        },
+                        {
+                            "value": "Joint Cipher Bureau"
+                        },
+                        {
+                            "value": "Intelligence Bureau"
+                        },
+                        {
+                            "value": "Intelligence Bureau"
+                        },
+                        {
+                            "value": ""
+                        },
+                        {
+                            "value": "Economic Intelligence"
+                        },
+                        {
+                            "value": "Directorate of Revenue Intelligence"
+                        },
+                        {
+                            "value": "Economic Intelligence Council"
+                        },
+                        {
+                            "value": "Enforcement Directorate"
+                        },
+                        {
+                            "value": "Directorate General of GST Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Indonesia",
+            "description": "Intelligence agencies in Indonesia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Badan Intelijen Negara"
+                        },
+                        {
+                            "value": "Badan Intelijen Negara"
+                        },
+                        {
+                            "value": "Indonesian Army Intelligence Centre"
+                        },
+                        {
+                            "value": "Indonesian Army Intelligence Centre"
+                        },
+                        {
+                            "value": "National Cyber and Crypto Agency"
+                        },
+                        {
+                            "value": "National Cyber and Crypto Agency"
+                        },
+                        {
+                            "value": "Deputy Attorney General on Intelligence"
+                        },
+                        {
+                            "value": "Deputy Attorney General on Intelligence"
+                        },
+                        {
+                            "value": "(Directorate of Immigration Intelligence)"
+                        },
+                        {
+                            "value": "National Narcotics Agency Intelligence Section)"
+                        },
+                        {
+                            "value": "Customs & Excise Sub-Directorate of Intelligence"
+                        },
+                        {
+                            "value": "Customs & Excise Sub-Directorate of Intelligence"
+                        },
+                        {
+                            "value": "Indonesian Financial Transaction Reports and Analysis Center"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Iran",
+            "description": "Intelligence agencies in Iran",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Ministry of Intelligence"
+                        },
+                        {
+                            "value": "Oghab 2"
+                        },
+                        {
+                            "value": "Council for Intelligence Coordination"
+                        },
+                        {
+                            "value": "Islamic Republic of Iran Army"
+                        },
+                        {
+                            "value": "Intelligence Protection Organization of Iranian Army"
+                        },
+                        {
+                            "value": "Islamic Revolutionary Guard Corps"
+                        },
+                        {
+                            "value": "Intelligence Organization of IRGC"
+                        },
+                        {
+                            "value": "Intelligence Protection Organization of IRGC"
+                        },
+                        {
+                            "value": "FARAJA\nIntelligence org"
+                        },
+                        {
+                            "value": "Intelligence org"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Iraq",
+            "description": "Intelligence agencies in Iraq",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "General Security Directorate"
+                        },
+                        {
+                            "value": "Iraqi National Intelligence Service"
+                        },
+                        {
+                            "value": "Falcons Intelligence Cell"
+                        },
+                        {
+                            "value": "Kurdistan Region Security Council"
+                        },
+                        {
+                            "value": "Intelligence and Counter-Terrorism Directorate - Ministry of Interior"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Ireland",
+            "description": "Intelligence agencies in Ireland",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Directorate of Military Intelligence"
+                        },
+                        {
+                            "value": "Communications and Information Services Corps"
+                        },
+                        {
+                            "value": "Crime & Security Branch"
+                        },
+                        {
+                            "value": "Special Detective Unit"
+                        },
+                        {
+                            "value": "National Surveillance Unit"
+                        },
+                        {
+                            "value": "Financial Intelligence Unit"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Israel",
+            "description": "Intelligence agencies in Israel",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Mossad"
+                        },
+                        {
+                            "value": "Shin Bet"
+                        },
+                        {
+                            "value": "Aman"
+                        },
+                        {
+                            "value": "Lahav 433"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Italy",
+            "description": "Intelligence agencies in Italy",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Agenzia Informazioni e Sicurezza Interna"
+                        },
+                        {
+                            "value": "Agenzia Informazioni e Sicurezza Interna"
+                        },
+                        {
+                            "value": "Agenzia Informazioni e Sicurezza Esterna"
+                        },
+                        {
+                            "value": "Agenzia Informazioni e Sicurezza Esterna"
+                        },
+                        {
+                            "value": "Centro Intelligence Interforze"
+                        },
+                        {
+                            "value": "Centro Intelligence Interforze"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Japan",
+            "description": "Intelligence agencies in Japan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Cabinet Secretariat"
+                        },
+                        {
+                            "value": "Cabinet Intelligence and Research Office"
+                        },
+                        {
+                            "value": "Ministry of Defense"
+                        },
+                        {
+                            "value": "Defense Intelligence Headquarters"
+                        },
+                        {
+                            "value": "Ministry of Justice"
+                        },
+                        {
+                            "value": "Public Security Intelligence Agency"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Jordan",
+            "description": "Intelligence agencies in Jordan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Da\u2019irat al-Mukhabarat al-\u2019Ammah"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Kenya",
+            "description": "Intelligence agencies in Kenya",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Intelligence Service"
+                        },
+                        {
+                            "value": "Directorate of Criminal Investigation"
+                        },
+                        {
+                            "value": "Military Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "North Korea",
+            "description": "Intelligence agencies in North Korea",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Reconnaissance General Bureau"
+                        },
+                        {
+                            "value": "Ministry of State Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "South Korea",
+            "description": "Intelligence agencies in South Korea",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Intelligence Service"
+                        },
+                        {
+                            "value": "Ministry of National Defense"
+                        },
+                        {
+                            "value": "Defense Intelligence Agency"
+                        },
+                        {
+                            "value": "Defense Counterintelligence Command"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Kyrgyzstan",
+            "description": "Intelligence agencies in Kyrgyzstan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Committee for National Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Lebanon",
+            "description": "Intelligence agencies in Lebanon",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "General Directorate of General Security"
+                        },
+                        {
+                            "value": "The Information Branch"
+                        },
+                        {
+                            "value": "Lebanese State Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Liberia",
+            "description": "Intelligence agencies in Liberia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Security Agency"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Lithuania",
+            "description": "Intelligence agencies in Lithuania",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Security Department"
+                        },
+                        {
+                            "value": "Second Investigation Department"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Luxembourg",
+            "description": "Intelligence agencies in Luxembourg",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Service de Renseignement de l'\u00c9tat Luxembourgeois"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Madagascar",
+            "description": "Intelligence agencies in Madagascar",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "[12]"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Malaysia",
+            "description": "Intelligence agencies in Malaysia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Royal Intelligence Corps (Kor Risik DiRaja)"
+                        },
+                        {
+                            "value": "Malaysian Defence Intelligence Organisation"
+                        },
+                        {
+                            "value": "Research Division of the Prime Minister's Department"
+                        },
+                        {
+                            "value": "Chief Government Security Office"
+                        },
+                        {
+                            "value": "Malaysian Special Branch"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Mexico",
+            "description": "Intelligence agencies in Mexico",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Federal government of Mexico"
+                        },
+                        {
+                            "value": "Attorney General of Mexico"
+                        },
+                        {
+                            "value": "Attorney General of Mexico"
+                        },
+                        {
+                            "value": "Crime-Combat Planning, Analysis and Information Center (CENAPI / PGR \u2013 Centro de Planeaci\u00f3n, An\u00e1lisis e Informaci\u00f3n para el Combate a la Delincuencia)"
+                        },
+                        {
+                            "value": "Assistant Attorney General's Office for Special Investigations on Organized Crime"
+                        },
+                        {
+                            "value": "Secretariat of the Interior"
+                        },
+                        {
+                            "value": "Mexican Federal Police"
+                        },
+                        {
+                            "value": "Mexican Federal Police"
+                        },
+                        {
+                            "value": "Intelligence Division of the Federal Police"
+                        },
+                        {
+                            "value": "National Intelligence Centre"
+                        },
+                        {
+                            "value": "Secretariat of National Defense"
+                        },
+                        {
+                            "value": "Secretariat of National Defense"
+                        },
+                        {
+                            "value": "2nd Section of the National Defense Intelligence Staff"
+                        },
+                        {
+                            "value": "Military Intelligence \u2013 National Defense Ministry"
+                        },
+                        {
+                            "value": "Mexican Navy"
+                        },
+                        {
+                            "value": "Naval Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Moldova",
+            "description": "Intelligence agencies in Moldova",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Information and Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Mongolia",
+            "description": "Intelligence agencies in Mongolia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "General Intelligence Agency of Mongolia"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Montenegro",
+            "description": "Intelligence agencies in Montenegro",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Security Agency"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Morocco",
+            "description": "Intelligence agencies in Morocco",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "General Directorate for Territorial Surveillance"
+                        },
+                        {
+                            "value": "Directorate of Research and Documentation"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Myanmar",
+            "description": "Intelligence agencies in Myanmar",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Bureau Of Special Investigation"
+                        },
+                        {
+                            "value": "Military Intelligence of Myanmar"
+                        },
+                        {
+                            "value": "Special Intelligence Department"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Namibia",
+            "description": "Intelligence agencies in Namibia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Namibia Central Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Nepal",
+            "description": "Intelligence agencies in Nepal",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Directorate of Military Intelligence"
+                        },
+                        {
+                            "value": "National Investigation Department"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Netherlands",
+            "description": "Intelligence agencies in Netherlands",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "General Intelligence and Security Service"
+                        },
+                        {
+                            "value": "Military Intelligence and Security Service"
+                        },
+                        {
+                            "value": "Joint Sigint Cyber Unit"
+                        },
+                        {
+                            "value": "National Coordinator for Counterterrorism and Security"
+                        },
+                        {
+                            "value": "Royal Marechaussee"
+                        },
+                        {
+                            "value": "Team Criminal Intelligence (KMar-TCI)"
+                        },
+                        {
+                            "value": "Fiscal Information and Investigation Service"
+                        },
+                        {
+                            "value": "Team Criminal Intelligence (FIOD-TCI)"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "New Zealand",
+            "description": "Intelligence agencies in New Zealand",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Government Communications Security Bureau"
+                        },
+                        {
+                            "value": "New Zealand Security Intelligence Service"
+                        },
+                        {
+                            "value": "National Assessments Bureau"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Nigeria",
+            "description": "Intelligence agencies in Nigeria",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Intelligence Agency"
+                        },
+                        {
+                            "value": "Defence Intelligence Agency"
+                        },
+                        {
+                            "value": "State Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "North Macedonia",
+            "description": "Intelligence agencies in North Macedonia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Administration for Security and Counterintelligence"
+                        },
+                        {
+                            "value": "Intelligence Agency"
+                        },
+                        {
+                            "value": "Military Service for Security and Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Norway",
+            "description": "Intelligence agencies in Norway",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Nasjonal sikkerhetsmyndighet"
+                        },
+                        {
+                            "value": "Politiets sikkerhetstjeneste"
+                        },
+                        {
+                            "value": "Etterretningstjenesten"
+                        },
+                        {
+                            "value": "Forsvarets sikkerhetstjeneste"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Oman",
+            "description": "Intelligence agencies in Oman",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "The Palace Office"
+                        },
+                        {
+                            "value": "Internal Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Pakistan",
+            "description": "Intelligence agencies in Pakistan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Inter-Services Intelligence"
+                        },
+                        {
+                            "value": "Inter-Services Intelligence"
+                        },
+                        {
+                            "value": "Air Intelligence (AI)"
+                        },
+                        {
+                            "value": "Air Intelligence (AI)"
+                        },
+                        {
+                            "value": "Military Intelligence (MI)"
+                        },
+                        {
+                            "value": "Naval Intelligence (NI)"
+                        },
+                        {
+                            "value": "Intelligence Bureau (IB)"
+                        },
+                        {
+                            "value": "Intelligence Bureau (IB)"
+                        },
+                        {
+                            "value": "Federal Investigation Agency (FIA)"
+                        },
+                        {
+                            "value": "National Counter Terrorism Authority (NACTA)"
+                        },
+                        {
+                            "value": "Counter Terrorism Department (CTD)"
+                        },
+                        {
+                            "value": "National Intelligence Directorate (NID)"
+                        },
+                        {
+                            "value": "Federal Board of Revenue (FBR)"
+                        },
+                        {
+                            "value": "Federal Board of Revenue (FBR)"
+                        },
+                        {
+                            "value": "Directorate-General of Intelligence and Investigation (DGII)"
+                        },
+                        {
+                            "value": "Financial Monitoring Unit (FMU)"
+                        },
+                        {
+                            "value": "National Accountability Bureau (NAB)"
+                        },
+                        {
+                            "value": "Security and Exchange Commission Pakistan (SECP)"
+                        },
+                        {
+                            "value": "Anti-Narcotics Force (ANF)"
+                        },
+                        {
+                            "value": "Anti-Narcotics Force (ANF)"
+                        },
+                        {
+                            "value": "National Crises Management Cell"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Palestine",
+            "description": "Intelligence agencies in Palestine",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Palestinian Security Services"
+                        },
+                        {
+                            "value": "Palestinian Preventive Security"
+                        },
+                        {
+                            "value": "Palestinian National Security Forces"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Panama",
+            "description": "Intelligence agencies in Panama",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Police Intelligence Directorate"
+                        },
+                        {
+                            "value": "General Directorate of Analysis and Strategic Intelligence"
+                        },
+                        {
+                            "value": "National Intelligence and Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Papua New Guinea",
+            "description": "Intelligence agencies in Papua New Guinea",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Intelligence Organization"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Peru",
+            "description": "Intelligence agencies in Peru",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Directorate of Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Philippines",
+            "description": "Intelligence agencies in Philippines",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Office of the President"
+                        },
+                        {
+                            "value": "National Intelligence Coordinating Agency"
+                        },
+                        {
+                            "value": "Philippine Drug Enforcement Agency"
+                        },
+                        {
+                            "value": "National Counter-Terrorism Action Group"
+                        },
+                        {
+                            "value": "Department of Justice"
+                        },
+                        {
+                            "value": "National Bureau of Investigation"
+                        },
+                        {
+                            "value": "Department of National Defense"
+                        },
+                        {
+                            "value": "Intelligence Service, Armed Forces of the Philippines"
+                        },
+                        {
+                            "value": "Philippine Army"
+                        },
+                        {
+                            "value": "Army Intelligence Regiment (AIR)"
+                        },
+                        {
+                            "value": "Philippine Air Force"
+                        },
+                        {
+                            "value": "300th Air Intelligence and Security Wing (AISW)"
+                        },
+                        {
+                            "value": "Philippine Navy"
+                        },
+                        {
+                            "value": "Naval Intelligence and Security Force (NISF)"
+                        },
+                        {
+                            "value": "Department of Transportation"
+                        },
+                        {
+                            "value": "Philippine Coast Guard"
+                        },
+                        {
+                            "value": "Coast Guard Staff for Intelligence"
+                        },
+                        {
+                            "value": "Department of the Interior and Local Government"
+                        },
+                        {
+                            "value": "Philippine National Police"
+                        },
+                        {
+                            "value": "Directorate for Intelligence"
+                        },
+                        {
+                            "value": "Philippine National Police"
+                        },
+                        {
+                            "value": "Philippine National Police \u2013 Criminal Investigation and Detection Group"
+                        },
+                        {
+                            "value": "Department of Finance"
+                        },
+                        {
+                            "value": "Bureau of Customs"
+                        },
+                        {
+                            "value": "Customs Intelligence and Investigation Service"
+                        },
+                        {
+                            "value": "Department of Foreign Affairs"
+                        },
+                        {
+                            "value": "Intelligence and Security Unit"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Poland",
+            "description": "Intelligence agencies in Poland",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Agencja Wywiadu"
+                        },
+                        {
+                            "value": "Agencja Bezpiecze\u0144stwa Wewn\u0119trznego"
+                        },
+                        {
+                            "value": "S\u0142u\u017cba Kontrwywiadu Wojskowego"
+                        },
+                        {
+                            "value": "Komendy G\u0142\u00f3wnej Stra\u017cy Granicznej"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Portugal",
+            "description": "Intelligence agencies in Portugal",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Sistema de Informa\u00e7\u00f5es da Rep\u00fablica Portuguesa"
+                        },
+                        {
+                            "value": "Servi\u00e7o de Informa\u00e7\u00f5es de Seguran\u00e7a"
+                        },
+                        {
+                            "value": "Servi\u00e7o de Informa\u00e7\u00f5es Estrat\u00e9gicas de Defesa"
+                        },
+                        {
+                            "value": "Centro de Informa\u00e7\u00f5es e Seguran\u00e7a Militares"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Qatar",
+            "description": "Intelligence agencies in Qatar",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Qatar State Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Romania",
+            "description": "Intelligence agencies in Romania",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Romanian Intelligence Service"
+                        },
+                        {
+                            "value": "Foreign Intelligence Service"
+                        },
+                        {
+                            "value": "Special Telecommunication Service"
+                        },
+                        {
+                            "value": "Ministry of National Defence"
+                        },
+                        {
+                            "value": "General Directorate for Defense Intelligence"
+                        },
+                        {
+                            "value": "Ministry of Internal Affairs"
+                        },
+                        {
+                            "value": "General Directorate for Internal Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Russia",
+            "description": "Intelligence agencies in Russia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Federal Security Service"
+                        },
+                        {
+                            "value": "Main Directorate of Special Programs of the President of the Russian Federation"
+                        },
+                        {
+                            "value": "Foreign Intelligence Service (Russia)"
+                        },
+                        {
+                            "value": "Main Intelligence Directorate"
+                        },
+                        {
+                            "value": "Federal Protective Service"
+                        },
+                        {
+                            "value": "Special Communications Service of Russia"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Saudi Arabia",
+            "description": "Intelligence agencies in Saudi Arabia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Council of Political and Security Affairs"
+                        },
+                        {
+                            "value": "General Intelligence Presidency"
+                        },
+                        {
+                            "value": "Presidency of State Security"
+                        },
+                        {
+                            "value": "Mabahith"
+                        },
+                        {
+                            "value": "Saudi Arabia Ministry of Defense"
+                        },
+                        {
+                            "value": "Saudi Arabia Border Guards"
+                        },
+                        {
+                            "value": "[21]"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Serbia",
+            "description": "Intelligence agencies in Serbia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Security Intelligence Agency"
+                        },
+                        {
+                            "value": "Security Intelligence Agency"
+                        },
+                        {
+                            "value": "Military Intelligence Agency"
+                        },
+                        {
+                            "value": "Military Intelligence Agency"
+                        },
+                        {
+                            "value": "Military Security Agency"
+                        },
+                        {
+                            "value": "Intelligence and Reconnaissance Directorate"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Singapore",
+            "description": "Intelligence agencies in Singapore",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Internal Security Department"
+                        },
+                        {
+                            "value": "Security and Intelligence Division"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Slovakia",
+            "description": "Intelligence agencies in Slovakia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Slovak Information Service"
+                        },
+                        {
+                            "value": "Military Intelligence"
+                        },
+                        {
+                            "value": "National Security Bureau"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Slovenia",
+            "description": "Intelligence agencies in Slovenia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Slovenian Intelligence and Security Agency"
+                        },
+                        {
+                            "value": "[22]"
+                        },
+                        {
+                            "value": "[23]"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Somalia",
+            "description": "Intelligence agencies in Somalia",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Intelligence and Security Agency"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "South Africa",
+            "description": "Intelligence agencies in South Africa",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Security Agency"
+                        },
+                        {
+                            "value": "South African National Defence Force, Intelligence Division"
+                        },
+                        {
+                            "value": "Crime Intelligence Division, South African Police Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Spain",
+            "description": "Intelligence agencies in Spain",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Ministry of the Presidency"
+                        },
+                        {
+                            "value": "Department of Homeland Security"
+                        },
+                        {
+                            "value": "Ministry of Defence"
+                        },
+                        {
+                            "value": "National Intelligence Centre"
+                        },
+                        {
+                            "value": "National Cryptologic Center"
+                        },
+                        {
+                            "value": "Spanish Armed Forces"
+                        },
+                        {
+                            "value": "Armed Forces Intelligence Center"
+                        },
+                        {
+                            "value": "Joint Cyberspace Command"
+                        },
+                        {
+                            "value": "Ministry of the Interior"
+                        },
+                        {
+                            "value": "Intelligence Center for Counter-Terrorism and Organized Crime"
+                        },
+                        {
+                            "value": "National Police Corps"
+                        },
+                        {
+                            "value": "Technological Research Brigade"
+                        },
+                        {
+                            "value": "General Commissariat of Information"
+                        },
+                        {
+                            "value": "General Commissariat of Judiciary Police"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Sri Lanka",
+            "description": "Intelligence agencies in Sri Lanka",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Sri Lanka Police"
+                        },
+                        {
+                            "value": "State Intelligence Service"
+                        },
+                        {
+                            "value": "Special Branch"
+                        },
+                        {
+                            "value": "Terrorist Investigation Division"
+                        },
+                        {
+                            "value": "Criminal Investigation Department"
+                        },
+                        {
+                            "value": "Sri Lanka Army"
+                        },
+                        {
+                            "value": "Directorate of Military Intelligence"
+                        },
+                        {
+                            "value": "Military Intelligence Corps"
+                        },
+                        {
+                            "value": "Sri Lanka Navy"
+                        },
+                        {
+                            "value": "Department of Naval Intelligence"
+                        },
+                        {
+                            "value": "Sri Lanka Air Force"
+                        },
+                        {
+                            "value": "Directorate of Air Intelligence"
+                        },
+                        {
+                            "value": "Central Bank of Sri Lanka"
+                        },
+                        {
+                            "value": "Financial Intelligence Unit (Sri Lanka),"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Sudan",
+            "description": "Intelligence agencies in Sudan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "General Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Sweden",
+            "description": "Intelligence agencies in Sweden",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Swedish Military Intelligence and Security Service"
+                        },
+                        {
+                            "value": "Office for Special Acquisition"
+                        },
+                        {
+                            "value": "National Defence Radio Establishment"
+                        },
+                        {
+                            "value": "Swedish Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Switzerland",
+            "description": "Intelligence agencies in Switzerland",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Federal Department of Defence, Civil Protection and Sports"
+                        },
+                        {
+                            "value": "Federal Intelligence Service"
+                        },
+                        {
+                            "value": "Swiss Armed Forces"
+                        },
+                        {
+                            "value": "Military Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Syria",
+            "description": "Intelligence agencies in Syria",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Air Force Intelligence Directorate"
+                        },
+                        {
+                            "value": "General Intelligence Directorate"
+                        },
+                        {
+                            "value": "Political Security Directorate"
+                        },
+                        {
+                            "value": "Military Intelligence Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Taiwan",
+            "description": "Intelligence agencies in Taiwan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "National Security Council"
+                        },
+                        {
+                            "value": "National Security Bureau"
+                        },
+                        {
+                            "value": "Ministry of Justice"
+                        },
+                        {
+                            "value": "Investigation Bureau"
+                        },
+                        {
+                            "value": "Ministry of the Interior"
+                        },
+                        {
+                            "value": "National Police Agency"
+                        },
+                        {
+                            "value": "Ministry of Defense"
+                        },
+                        {
+                            "value": "Military Police Command"
+                        },
+                        {
+                            "value": "Military Intelligence Bureau"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Tajikistan",
+            "description": "Intelligence agencies in Tajikistan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Committee for National Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Tanzania",
+            "description": "Intelligence agencies in Tanzania",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Tanzania Intelligence and Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Thailand",
+            "description": "Intelligence agencies in Thailand",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Ministry of Foreign Affairs"
+                        },
+                        {
+                            "value": "News Division"
+                        },
+                        {
+                            "value": "Ministry of Interior"
+                        },
+                        {
+                            "value": "Department of Provincial Administration (DOPA)\nInternal Security Affairs Bureau (ISAB)"
+                        },
+                        {
+                            "value": "Internal Security Affairs Bureau (ISAB)"
+                        },
+                        {
+                            "value": "Ministry of Justice"
+                        },
+                        {
+                            "value": "Department of Special Investigation"
+                        },
+                        {
+                            "value": "Bureau of Intelligence (BI)"
+                        },
+                        {
+                            "value": "Office of the Narcotics Control Board (ONCB)"
+                        },
+                        {
+                            "value": "Ministry of Defence"
+                        },
+                        {
+                            "value": "Armed Forces Security Center (AFSC)"
+                        },
+                        {
+                            "value": "Army Military Intelligence Command (AMIC)"
+                        },
+                        {
+                            "value": "Department of Border Affair (DBA)"
+                        },
+                        {
+                            "value": "Directorate of Joint Intelligence (DJI)"
+                        },
+                        {
+                            "value": "Directorate of Intelligence Royal Thai Army (DINTRTA)"
+                        },
+                        {
+                            "value": "Directorate of Intelligence, RTAF (INTELLRTAF)"
+                        },
+                        {
+                            "value": "Naval Intelligence Department (NID)"
+                        },
+                        {
+                            "value": "Office of the Prime Minister"
+                        },
+                        {
+                            "value": "Anti-Money Laundering Office"
+                        },
+                        {
+                            "value": "Financial Intelligence Division (FID)"
+                        },
+                        {
+                            "value": "Internal Security Operations Command"
+                        },
+                        {
+                            "value": "National Intelligence Agency"
+                        },
+                        {
+                            "value": "National Intelligence Cooperating Center (NICC)"
+                        },
+                        {
+                            "value": "Royal Thai Police"
+                        },
+                        {
+                            "value": "Crime Suppression Division (CSD)"
+                        },
+                        {
+                            "value": "Drug Intelligence Division (DID)"
+                        },
+                        {
+                            "value": "Special Branch Bureau"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Turkey",
+            "description": "Intelligence agencies in Turkey",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "President of Turkey"
+                        },
+                        {
+                            "value": "National Intelligence Organization"
+                        },
+                        {
+                            "value": "Ministry of National Defense"
+                        },
+                        {
+                            "value": "Joint Chief of Staff Intelligence Bureau"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Turkmenistan",
+            "description": "Intelligence agencies in Turkmenistan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Ministry for National Security"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Ukraine",
+            "description": "Intelligence agencies in Ukraine",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Central Intelligence Directorate"
+                        },
+                        {
+                            "value": "Foreign Intelligence Service of Ukraine"
+                        },
+                        {
+                            "value": "National Bureau of Investigation"
+                        },
+                        {
+                            "value": "Security Service of Ukraine"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "United Arab Emirates",
+            "description": "Intelligence agencies in United Arab Emirates",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Signals Intelligence Agency"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "United Kingdom",
+            "description": "Intelligence agencies in United Kingdom",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Joint Intelligence Organisation"
+                        },
+                        {
+                            "value": "Security Service"
+                        },
+                        {
+                            "value": "Office for Security and Counter-Terrorism"
+                        },
+                        {
+                            "value": "National Domestic Extremism and Disorder Intelligence Unit"
+                        },
+                        {
+                            "value": "National Ballistics Intelligence Service"
+                        },
+                        {
+                            "value": "National Fraud Intelligence Bureau"
+                        },
+                        {
+                            "value": "Secret Intelligence Service"
+                        },
+                        {
+                            "value": "Defence Intelligence"
+                        },
+                        {
+                            "value": "Government Communications Headquarters"
+                        },
+                        {
+                            "value": "National Crime Agency"
+                        },
+                        {
+                            "value": "Gangmasters and Labour Abuse Authority"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "United States",
+            "description": "Intelligence agencies in United States",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Director of National Intelligence"
+                        },
+                        {
+                            "value": "Independent agencies"
+                        },
+                        {
+                            "value": "Central Intelligence Agency"
+                        },
+                        {
+                            "value": "United States Department of Defense"
+                        },
+                        {
+                            "value": "Air Force Office of Special Investigations"
+                        },
+                        {
+                            "value": "Defense Intelligence Agency"
+                        },
+                        {
+                            "value": "Defense Counterintelligence and Security Agency"
+                        },
+                        {
+                            "value": "National Security Agency"
+                        },
+                        {
+                            "value": "National Geospatial-Intelligence Agency"
+                        },
+                        {
+                            "value": "National Reconnaissance Office"
+                        },
+                        {
+                            "value": "Army Intelligence"
+                        },
+                        {
+                            "value": "Marine Corps Intelligence"
+                        },
+                        {
+                            "value": "Navy Intelligence"
+                        },
+                        {
+                            "value": "Air Force Intelligence, Surveillance, and Reconnaissance Enterprise"
+                        },
+                        {
+                            "value": "Space Force Intelligence, Surveillance, and Reconnaissance Enterprise"
+                        },
+                        {
+                            "value": "United States Department of Energy"
+                        },
+                        {
+                            "value": "Office of Intelligence and Counterintelligence"
+                        },
+                        {
+                            "value": "United States Department of Homeland Security"
+                        },
+                        {
+                            "value": "Federal Protective Services"
+                        },
+                        {
+                            "value": "Immigration Customs and Enforcement"
+                        },
+                        {
+                            "value": "Customs and Border Protection"
+                        },
+                        {
+                            "value": "United States Border Patrol"
+                        },
+                        {
+                            "value": "Homeland Security Investigations"
+                        },
+                        {
+                            "value": "United States Department of Justice"
+                        },
+                        {
+                            "value": "Federal Bureau of Investigation"
+                        },
+                        {
+                            "value": "Office of National Security Intelligence"
+                        },
+                        {
+                            "value": "United States Department of State"
+                        },
+                        {
+                            "value": "Bureau of Intelligence and Research"
+                        },
+                        {
+                            "value": "United States Department of the Treasury"
+                        },
+                        {
+                            "value": "Office of Terrorism and Financial Intelligence"
+                        },
+                        {
+                            "value": "Drug Enforcement Administration"
+                        },
+                        {
+                            "value": "Bureau of Alcohol, Tobacco, Firearms and Explosives"
+                        },
+                        {
+                            "value": "United States Marshals Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Uzbekistan",
+            "description": "Intelligence agencies in Uzbekistan",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "State Security Service"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Venezuela",
+            "description": "Intelligence agencies in Venezuela",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Bolivarian National Intelligence Service"
+                        },
+                        {
+                            "value": "Directorate General of Military Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Vietnam",
+            "description": "Intelligence agencies in Vietnam",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Ministry of National Defence"
+                        },
+                        {
+                            "value": "General Department of Defence Intelligence"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Yemen",
+            "description": "Intelligence agencies in Yemen",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Political Security Organization"
+                        },
+                        {
+                            "value": "National Security Bureau"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Zimbabwe",
+            "description": "Intelligence agencies in Zimbabwe",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Central Intelligence Organisation"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "European Union",
+            "description": "Intelligence agencies in European Union",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "European Union Intelligence Centre"
+                        },
+                        {
+                            "value": "Counter Terrorism Group"
+                        },
+                        {
+                            "value": "European Union Military Staff"
+                        },
+                        {
+                            "value": "European Union Satellite Centre"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "value": "Shanghai Cooperation Organisation",
+            "description": "Intelligence agencies in Shanghai Cooperation Organisation",
+            "meta": {
+                "source": "https://en.wikipedia.org/wiki/List_of_intelligence_agencies"
+            },
+            "Galaxy": {
+                "Threat-Actor": {
+                    "threat-actor": [
+                        {
+                            "value": "Regional Anti-Terrorist Structure"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
