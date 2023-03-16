@@ -15,9 +15,15 @@ Creation of a taxonomy that would fit the MISP requirements in order to output a
 
 ## TO-DO LIST
 Scrape the website with helps of a python code
+
 Creating a MISP formatted Taxonomy
+
 Creating JSON File based on the Taxonomy
+
 Verifying if the format is working
+
 -Validation by the MISP team in charge of project
+
 -Integration to the MISP project
+
 -End of project
