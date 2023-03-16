@@ -3,7 +3,8 @@ MISP Project - Intelligence Agencies
 
 ## Context
 This project is part of the Master 2, SSI, in the UFR-MIM in Metz and serves as project and mark for our class "Threat Intelligence. The goal of this project is to scrap existing data from various websites to create a taxonomy or a galaxy in the MISP repository, to enable the possibility for anyone to use it later while working with/on MISP. 
-For this Project, we decided to create a taxonomy of the different Intelligence Agencies around the world sorted by country, with the purpose to integrate it into MISP.
+
+For this Project, we decided to create a taxonomy of the different Intelligence Agencies around the world sorted by country, with the purpose to integrate it into MISP. We did that because we identified that the information was not yet accessible on MISP.
 
 ## Site Scraping and Creation of the JSON File
 Usage of the website https://en.wikipedia.org/wiki/List_of_intelligence_agencies for the different Intelligence Agencies.
